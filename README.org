@@ -4,7 +4,6 @@ A Common Lisp client for the Chroma vector database
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/atgreen/cl-chroma.git |
-| commit  | 74b23a9                                      |
-| systems | chroma                                       |
+| commit  | 77574c5                                      |
+| systems | chroma-db                                    |
 |---------+----------------------------------------------|
- 
