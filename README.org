@@ -7,4 +7,4 @@ A Common Lisp client for the Chroma vector database
 | commit  | 77574c5                                      |
 | systems | chroma-db                                    |
 |---------+----------------------------------------------|
- 
+  
